@@ -1,0 +1,10 @@
+15:28:04.123 [main] INFO  testCases.TC003_LoginDDT {36} - entering login details
+15:28:07.515 [main] INFO  testCases.TC003_LoginDDT {36} - verifying whether Account page is displayed or not
+15:28:08.823 [main] INFO  testCases.TC003_LoginDDT {36} -  *********** finishing TC002_Logintest *************
+15:28:08.849 [main] INFO  testCases.TC003_LoginDDT {36} -  *********** Starting TC002_Logintest *************
+15:28:08.849 [main] INFO  testCases.TC003_LoginDDT {36} - clicking on register in homepage 
+15:28:08.849 [main] INFO  testCases.TC003_LoginDDT {36} - clicked on homepage button
+15:28:09.494 [main] INFO  testCases.TC003_LoginDDT {36} - clicked on login button
+15:28:10.300 [main] INFO  testCases.TC003_LoginDDT {36} - entering login details
+15:28:12.232 [main] INFO  testCases.TC003_LoginDDT {36} - verifying whether Account page is displayed or not
+15:28:17.342 [main] INFO  testCases.TC003_LoginDDT {36} -  *********** finishing TC002_Logintest *************

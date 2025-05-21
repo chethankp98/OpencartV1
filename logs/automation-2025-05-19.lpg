@@ -1,0 +1,49 @@
+23:42:26.508 [main] INFO  testCases.TC003_LoginDDT {36} -  *********** finishing TC002_Logintest *************
+23:42:26.553 [main] INFO  testCases.TC003_LoginDDT {36} -  *********** Starting TC002_Logintest *************
+23:42:26.561 [main] INFO  testCases.TC003_LoginDDT {36} - clicking on register in homepage 
+23:42:26.561 [main] INFO  testCases.TC003_LoginDDT {36} - clicked on homepage button
+23:42:26.785 [main] INFO  testCases.TC003_LoginDDT {36} - clicked on login button
+23:42:27.373 [main] INFO  testCases.TC003_LoginDDT {36} - entering login details
+23:42:29.309 [main] INFO  testCases.TC003_LoginDDT {36} - verifying whether Account page is displayed or not
+23:42:34.430 [main] INFO  testCases.TC003_LoginDDT {36} -  *********** finishing TC002_Logintest *************
+23:42:34.444 [main] INFO  testCases.TC003_LoginDDT {36} -  *********** Starting TC002_Logintest *************
+23:42:34.445 [main] INFO  testCases.TC003_LoginDDT {36} - clicking on register in homepage 
+23:42:34.445 [main] INFO  testCases.TC003_LoginDDT {36} - clicked on homepage button
+23:42:34.592 [main] INFO  testCases.TC003_LoginDDT {36} - clicked on login button
+23:42:35.822 [main] INFO  testCases.TC003_LoginDDT {36} - entering login details
+23:42:36.205 [main] INFO  testCases.TC003_LoginDDT {36} - verifying whether Account page is displayed or not
+23:42:41.892 [main] INFO  testCases.TC003_LoginDDT {36} -  *********** finishing TC002_Logintest *************
+23:42:41.904 [main] INFO  testCases.TC003_LoginDDT {36} -  *********** Starting TC002_Logintest *************
+23:42:41.904 [main] INFO  testCases.TC003_LoginDDT {36} - clicking on register in homepage 
+23:42:41.904 [main] INFO  testCases.TC003_LoginDDT {36} - clicked on homepage button
+23:42:42.051 [main] INFO  testCases.TC003_LoginDDT {36} - clicked on login button
+23:42:43.078 [main] INFO  testCases.TC003_LoginDDT {36} - entering login details
+23:42:43.535 [main] INFO  testCases.TC003_LoginDDT {36} - verifying whether Account page is displayed or not
+23:42:45.849 [main] INFO  testCases.TC003_LoginDDT {36} -  *********** finishing TC002_Logintest *************
+23:42:45.899 [main] INFO  testCases.TC003_LoginDDT {36} -  *********** Starting TC002_Logintest *************
+23:42:45.899 [main] INFO  testCases.TC003_LoginDDT {36} - clicking on register in homepage 
+23:42:45.901 [main] INFO  testCases.TC003_LoginDDT {36} - clicked on homepage button
+23:42:46.012 [main] INFO  testCases.TC003_LoginDDT {36} - clicked on login button
+23:42:46.687 [main] INFO  testCases.TC003_LoginDDT {36} - entering login details
+23:42:47.099 [main] INFO  testCases.TC003_LoginDDT {36} - verifying whether Account page is displayed or not
+23:42:53.245 [main] INFO  testCases.TC003_LoginDDT {36} -  *********** finishing TC002_Logintest *************
+23:45:03.423 [main] INFO  testCases.TC001_Accountregistrationtest {36} - ********** Starting Execution of TC001_Accountregistrationtest ************
+23:45:04.782 [main] INFO  testCases.TC001_Accountregistrationtest {36} - clicked on homepage button
+23:45:06.829 [main] INFO  testCases.TC001_Accountregistrationtest {36} - clicked on register button
+23:45:07.849 [main] INFO  testCases.TC001_Accountregistrationtest {36} - Providing customer details....
+23:45:10.737 [main] INFO  testCases.TC001_Accountregistrationtest {36} - Validating expected message..
+23:45:12.756 [main] INFO  testCases.TC001_Accountregistrationtest {36} - ********** Finished TC001_Accountregistrationtest ************
+23:50:29.538 [main] INFO  testCases.TC001_Accountregistrationtest {36} - ********** Starting Execution of TC001_Accountregistrationtest ************
+23:50:30.955 [main] INFO  testCases.TC001_Accountregistrationtest {36} - clicked on homepage button
+23:50:33.551 [main] INFO  testCases.TC001_Accountregistrationtest {36} - clicked on register button
+23:50:34.569 [main] INFO  testCases.TC001_Accountregistrationtest {36} - Providing customer details....
+23:50:41.519 [main] INFO  testCases.TC001_Accountregistrationtest {36} - Validating expected message..
+23:51:01.185 [main] INFO  testCases.TC002_Logintest {36} -  *********** Starting TC002_Logintest *************
+23:51:01.187 [main] INFO  testCases.TC002_Logintest {36} - clicking on register in homepage 
+23:51:02.447 [main] INFO  testCases.TC002_Logintest {36} - clicked on homepage button
+23:51:05.661 [main] INFO  testCases.TC002_Logintest {36} - enetering login details
+23:51:08.321 [main] INFO  testCases.TC002_Logintest {36} - verifying whether Account page is displayed or not
+23:51:08.483 [main] INFO  testCases.TC002_Logintest {36} -  *********** finishing TC002_Logintest *************
+23:53:35.931 [main] INFO  testCases.TC001_Accountregistrationtest {36} - ********** Starting Execution of TC001_Accountregistrationtest ************
+23:53:37.230 [main] INFO  testCases.TC001_Accountregistrationtest {36} - clicked on homepage button
+23:53:40.554 [main] INFO  testCases.TC001_Accountregistrationtest {36} - clicked on register button
